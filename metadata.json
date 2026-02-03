@@ -1,0 +1,8 @@
+{
+  "name": "E.D.I.T.H. Interface",
+  "description": "Even Death I'm The Hero. An Advanced Augmented Reality Tactical Interface with Voice Authorization and Gemini Live API integration.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
